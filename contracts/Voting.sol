@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+// 8 days of run for Sepolia Faucet from Sepolia Pow Faucet and achieve 2 Passport points by commiting 30 days on github
+// Day-1 
+
 contract Voting{
     // Announcement of candidate
 
